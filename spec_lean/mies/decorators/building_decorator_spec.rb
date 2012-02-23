@@ -1,3 +1,4 @@
+require 'spec_helper'
 require 'decorators/building_decorator'
 
 describe "Decorating buildings" do
