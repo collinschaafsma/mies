@@ -1,6 +1,6 @@
 module Mies
   module Decorators
-    class Base
+    class ApplicationDecorator
 
     end
   end

@@ -1,6 +1,6 @@
 module Mies
   module Presenters
-    class Base
+    class ApplicationPresenter
 
     end
   end
